@@ -58,9 +58,9 @@ Book on making javascript easier to understand
 #### [Free JavaScript Books](http://jsbooks.revolunet.com/)
 
 ## Node.js
-[Node for Beginners](https://github.com/rockbot/node-for-beginners)
-[Art of Node](https://github.com/maxogden/art-of-node)
-[NodeSchool](http://www.nodeschool.io)
+- [Node for Beginners](https://github.com/rockbot/node-for-beginners)
+- [Art of Node](https://github.com/maxogden/art-of-node)
+- [NodeSchool](http://www.nodeschool.io)
 
 ### Watch
 
@@ -76,14 +76,14 @@ Book on making javascript easier to understand
 **beginner**
 
 ## CSS
-[CSS Diner](http://flukeout.github.io/)
-[CSS Leveler](http://toolness.github.io/css-selector-game/)
-[CSS Animations](http://www.justinaguilar.com/animations/index.html)
-[Pure CSS](http://purecss.io/start/)
-[Learn CSS Layout](http://learnlayout.com/)
+- [CSS Diner](http://flukeout.github.io/)
+- [CSS Leveler](http://toolness.github.io/css-selector-game/)
+- [CSS Animations](http://www.justinaguilar.com/animations/index.html)
+- [Pure CSS](http://purecss.io/start/)
+- [Learn CSS Layout](http://learnlayout.com/)
 
 ## HTML
-[HTML & CSS](http://learn.shayhowe.com/html-css/)
+- [HTML & CSS](http://learn.shayhowe.com/html-css/)
 
 ## Git
 [Try Git](https://try.github.io)  
